@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Avery Label Generator
 
 一个用于生成 Avery 5160 标签的 Python 工具。
@@ -25,3 +26,7 @@ pip install -r requirements.txt
 2. 运行程序：
 bash
 python src/label_generator.py
+=======
+# Avery5160
+Print PDF Label by Avery 5160 format
+>>>>>>> 8ec69fbc9e108047a53f87dceeb3262f5f3de9dd
